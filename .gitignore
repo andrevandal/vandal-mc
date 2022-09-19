@@ -1,0 +1,7 @@
+# ignore everything
+data/*
+
+# except for .gitignore files in the current directory
+!data/plugins/*.jar
+!data/eula.txt
+!data/server.properties
